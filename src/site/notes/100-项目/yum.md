@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100/yum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/100-项目/yum/","dgPassFrontmatter":true}
 ---
 
 #软件
