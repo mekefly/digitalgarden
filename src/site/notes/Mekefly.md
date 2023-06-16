@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mekefly/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/Mekefly/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 邮箱： mekefly@outlook.com 
