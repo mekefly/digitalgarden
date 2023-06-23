@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/100-项目/bilibi首页/","dgPassFrontmatter":true}
 ---
 
-#[[静态页面\|静态页面]]
+#[[100-项目/静态页面\|静态页面]]
 
 ## 哔哩哔哩设计指南
 可以使用vue来制作
